@@ -1,7 +1,7 @@
 import Head from 'next/head'
 import Link from 'next/link'
 
-export default function Home() {
+export default function Home({stars, stars_2}) {
     return (
         <div className="container">
             <Head>
@@ -23,8 +23,8 @@ export default function Home() {
                             <section className="clean-block clean-form dark">
                                 <div className="container">
                                     <form>
-                                        <div className="form-group">수출할 금액<input className="form-control item" id="wishMoney" value="(10)"/></div>
-                                        <div className="form-group">수취 예정연도<input className="form-control" id="wishYear" value="(13)"/></div>
+                                        <div className="form-group">수출할 금액<input className="form-control item" id="wishMoney" value={stars}/></div>
+                                        <div className="form-group">수취 예정연도<input className="form-control" id="wishYear" value={stars_2}/></div>
                                         <div className="form-group">
                                         </div>
                                     </form>
@@ -85,3 +85,9 @@ export default function Home() {
         </div>
     )
 }
+
+Home.getInitialProps = async (ctx) => {
+    const res = await fetch('https://api.github.com/repos/vercel/next.js');
+    const json = await res.json();
+    return { stars: json.stargazers_count, stars_2:json.subscribers_count }
+};
