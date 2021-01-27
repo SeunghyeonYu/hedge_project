@@ -1,9 +1,8 @@
+import React from "react";
 import Footer from "../component/Footer";
 import Top from "../component/Top";
-import App from 'next/app'
-import React from 'react'
+import App from "next/app";
 
-import {withMobx} from 'next-mobx-wrapper';
 import {configure} from 'mobx';
 import {Provider, useStaticRendering} from 'mobx-react';
 
