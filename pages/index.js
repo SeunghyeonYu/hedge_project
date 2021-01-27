@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <meta charset="utf-8"/>
+        <meta charSet="utf-8"/>
         <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no"/>
 
         <title>Create Next App</title>
@@ -22,9 +22,13 @@ export default function Home() {
             <div className="text">
               <h2>환 리스크 관리를 위한 최적의 전략 추천</h2>
               <p>금융의 새로운 가치를 창출하는 Digital Innovator 코스콤이 함께합니다 </p>
-              <Link href={`/detailed_hedge`}>
+
+
+              <Link href={`/recommend`}>
                 <button className="btn btn-outline-light btn-lg" type="button">시작하기</button>
               </Link>
+
+
             </div>
           </section>
 

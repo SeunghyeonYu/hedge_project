@@ -1,4 +1,5 @@
 import Head from 'next/head'
+import Link from 'next/link'
 
 export default function Home() {
     return (
@@ -131,6 +132,9 @@ export default function Home() {
                                 </div>
                             </div>
                             </div>
+                            <Link href={`/result_recommend`}>
+                                <button className="btn btn-outline-primary btn-block " type="button">다른 전략 보기</button>
+                            </Link>
                         </div>
                     </div>
                 </section>

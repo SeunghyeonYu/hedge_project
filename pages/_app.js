@@ -9,7 +9,7 @@ export default class MyApp extends App {
         return (
             <div>
                 <Top />
-                <br/><br/><br/><br/><br/><br/>
+                <br/><br/><br/><br/>
 
                 <Component {...pageProps} />
                 <Footer />

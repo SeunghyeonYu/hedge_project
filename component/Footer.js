@@ -1,8 +1,8 @@
 export default function Footer() {
   return (
       <footer>
-          <p>© 2021 Copyright
-          <img src="/vercel.svg" alt="Vercel Logo" className="logo" />
+          <p>
+            <img src="/koscom_ci.jpg" alt="Vercel Logo" className="logo" />
           </p>
       </footer>
   );
