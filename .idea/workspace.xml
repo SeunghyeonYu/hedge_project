@@ -2,34 +2,38 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cb8f30f4-12df-4d5d-9122-0c419c3a769b" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/server/pages/detailed_hedge.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/chunks/pages/detailed_hedge.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/16f9f892e2dc5f6b78c1.hot-update.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/5526ded66ca74b6b1671.hot-update.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/977f9fdd752b98e29ee7.hot-update.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/ccff239a49f7ec030d4f.hot-update.json" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/pages/detailed_hedge.js" afterPath="$PROJECT_DIR$/pages/recommend.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/pages/hedge.js" afterPath="$PROJECT_DIR$/pages/result_recommend.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.next/build-manifest.json" afterPath="$PROJECT_DIR$/.next/build-manifest.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.next/cache/next-babel-loader/content-v2/sha512/bc/7b/98c4f8d55cf5aa3ef7a18d98f394d88a34d91ab626520a0fcadc96bb852096da0192c487125e595d7a9f4689d923938af2d1003177ee7e67569d2320394a" afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/content-v2/sha512/bc/7b/98c4f8d55cf5aa3ef7a18d98f394d88a34d91ab626520a0fcadc96bb852096da0192c487125e595d7a9f4689d923938af2d1003177ee7e67569d2320394a" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.next/cache/next-babel-loader/content-v2/sha512/f7/26/5d599eb96017164dff5bbbea7ba8cf919ef6ea1e24719e4e41bfca86182a9ebf943b449db458f97b6e8bbc20384ab8fb68c0180474b967c25ab1a4e6760c" afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/content-v2/sha512/f7/26/5d599eb96017164dff5bbbea7ba8cf919ef6ea1e24719e4e41bfca86182a9ebf943b449db458f97b6e8bbc20384ab8fb68c0180474b967c25ab1a4e6760c" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.next/cache/next-babel-loader/index-v5/09/ba/1b543200d7b763a044c0caf27a4aef6390274eec3302b401c2b2c3471834" afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/index-v5/09/ba/1b543200d7b763a044c0caf27a4aef6390274eec3302b401c2b2c3471834" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.next/cache/next-babel-loader/index-v5/bc/83/ea1fb5cc3a86c3445cabab7514c1276230877ac0ed3cde3eeeb675a0a530" afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/index-v5/bc/83/ea1fb5cc3a86c3445cabab7514c1276230877ac0ed3cde3eeeb675a0a530" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.next/server/pages-manifest.json" afterPath="$PROJECT_DIR$/.next/server/pages-manifest.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.next/server/pages/_app.js" afterPath="$PROJECT_DIR$/.next/server/pages/_app.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.next/server/pages/index.js" afterPath="$PROJECT_DIR$/.next/server/pages/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.next/static/chunks/pages/_app.js" afterPath="$PROJECT_DIR$/.next/static/chunks/pages/_app.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.next/static/chunks/pages/index.js" afterPath="$PROJECT_DIR$/.next/static/chunks/pages/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.next/static/chunks/webpack.js" afterPath="$PROJECT_DIR$/.next/static/chunks/webpack.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.next/static/development/_buildManifest.js" afterPath="$PROJECT_DIR$/.next/static/development/_buildManifest.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/component/Footer.js" afterPath="$PROJECT_DIR$/component/Footer.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/component/Top.js" afterPath="$PROJECT_DIR$/component/Top.js" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/build-manifest.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/react-loadable-manifest.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/server/init-server.js.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/server/on-error-server.js.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/server/pages-manifest.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/server/pages/_app.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/server/pages/_document.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/server/pages/_error.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/server/pages/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/server/pages/next/dist/pages/_error.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/server/pages/recommend.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/server/pages/result_recommend.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/server/ssr-module-cache.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/chunks/0.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/chunks/amp.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/chunks/main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/chunks/pages/_app.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/chunks/pages/_error.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/chunks/pages/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/chunks/pages/next/dist/pages/_error.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/chunks/pages/recommend.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/chunks/pages/result_recommend.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/chunks/polyfills.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/chunks/react-refresh.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/chunks/webpack.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/development/_buildManifest.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/development/_ssgManifest.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/478974f961c8d8da5440.hot-update.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/77414e16565e7a885c3f.hot-update.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/7ce56ba7f97f5427cfcf.hot-update.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/e0ef34e6f1db78a0ceea.hot-update.json" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/_app.js" afterPath="$PROJECT_DIR$/pages/_app.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/future_market.js" afterPath="$PROJECT_DIR$/pages/future_market.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/index.js" afterPath="$PROJECT_DIR$/pages/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/short_market.js" afterPath="$PROJECT_DIR$/pages/short_market.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -43,11 +47,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="result_recommend.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="result_recommend.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pages/result_recommend.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="348">
-              <caret line="68" column="0" lean-forward="true" selection-start-line="68" selection-start-column="0" selection-end-line="68" selection-end-column="0" />
+            <state relative-caret-position="1020">
+              <caret line="68" column="0" lean-forward="false" selection-start-line="68" selection-start-column="0" selection-end-line="68" selection-end-column="0" />
               <folding>
                 <element signature="e#0#28#0" expanded="true" />
               </folding>
@@ -108,14 +112,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_app.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="_app.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pages/_app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="1" lean-forward="false" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
-              <folding>
-                <element signature="e#0#41#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="90">
+              <caret line="6" column="31" lean-forward="false" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -165,10 +167,10 @@
         <option value="$PROJECT_DIR$/pages/recommend.js" />
         <option value="$PROJECT_DIR$/pages/index.js" />
         <option value="$PROJECT_DIR$/component/Footer.js" />
-        <option value="$PROJECT_DIR$/pages/_app.js" />
         <option value="$PROJECT_DIR$/pages/short_market.js" />
         <option value="$PROJECT_DIR$/pages/future_market.js" />
         <option value="$PROJECT_DIR$/pages/result_recommend.js" />
+        <option value="$PROJECT_DIR$/pages/_app.js" />
       </list>
     </option>
   </component>
@@ -274,12 +276,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1611748245773</updated>
-      <workItem from="1611748246998" duration="1866000" />
+      <workItem from="1611748246998" duration="2326000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1866000" />
+    <option name="totallyTimeSpent" value="2326000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -370,16 +372,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pages/_app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="1" lean-forward="false" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
-          <folding>
-            <element signature="e#0#41#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pages/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="468">
@@ -422,11 +414,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pages/result_recommend.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="348">
-          <caret line="68" column="0" lean-forward="true" selection-start-line="68" selection-start-column="0" selection-end-line="68" selection-end-column="0" />
+        <state relative-caret-position="1020">
+          <caret line="68" column="0" lean-forward="false" selection-start-line="68" selection-start-column="0" selection-end-line="68" selection-end-column="0" />
           <folding>
             <element signature="e#0#28#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/_app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="31" lean-forward="false" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
+          <folding />
         </state>
       </provider>
     </entry>

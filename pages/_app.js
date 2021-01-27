@@ -3,6 +3,11 @@ import Top from "../component/Top";
 import App from 'next/app'
 import React from 'react'
 
+import {withMobx} from 'next-mobx-wrapper';
+import {configure} from 'mobx';
+import {Provider, useStaticRendering} from 'mobx-react';
+
+
 export default class MyApp extends App {
     render(){
         const { Component, pageProps } = this.props

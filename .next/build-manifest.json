@@ -38,11 +38,6 @@
       "static/chunks/main.js",
       "static/chunks/webpack.js",
       "static/chunks/pages/recommend.js"
-    ],
-    "/result_recommend": [
-      "static/chunks/main.js",
-      "static/chunks/webpack.js",
-      "static/chunks/pages/result_recommend.js"
     ]
   },
   "ampFirstPages": []
