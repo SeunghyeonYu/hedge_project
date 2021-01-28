@@ -5,9 +5,31 @@ import store from '../common/store';
 
 export default class Home extends React.Component {
 
-    handleChange = (e) => {
+    handleWishMoneyChange = (e) => {
         store.setWishMoney(e.target.value)
     }
+    handleWishYearChange = (e) => {
+        store.setWishYear(e.target.value)
+
+    }
+
+    handleButtonClick = (e) => {
+        fetch('http://52.78.1.198:8080/hedge/export', {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json',
+            },
+            body: JSON.stringify({
+                year: 1,
+                exportPrice: '100',
+            }),
+        }).then(response => response.json())
+            .then(data => store.setData(data));
+
+
+    }
+
+
 
     render() {
     return (
@@ -36,14 +58,15 @@ export default class Home extends React.Component {
         </div>
         </div>
 
+
         <div id="wishForm" style={{display:'block'}}>
         <form>
-        <div className="form-group">수출할 금액<input className="form-control item" id="wishMoney" onChange={this.handleChange}/></div>
-        <div className="form-group">수취 예정연도<input className="form-control" id="wishYear"/></div>
+            <div className="form-group">수출할 금액<input className="form-control item" id="wishMoney" onChange={this.handleWishMoneyChange}/></div>
+            <div className="form-group">수취 예정연도<input className="form-control" id="wishYear" onChange={this.handleWishYearChange}/></div>
         <div className="form-group">
         </div>
         <Link href={`/result_recommend`}>
-        <button className="btn btn-primary btn-block" type="submit">추천 받기</button>
+        <button className="btn btn-primary btn-block" type="submit" onClick={this.handleButtonClick}>추천 받기</button>
         </Link>
         </form>
         </div>

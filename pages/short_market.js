@@ -1,5 +1,6 @@
 import Head from 'next/head'
 import Link from 'next/link'
+import store from '../common/store';
 
 export default function Home() {
     return (

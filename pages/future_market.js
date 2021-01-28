@@ -1,5 +1,6 @@
 import Head from 'next/head'
 import Link from 'next/link'
+import store from '../common/store';
 
 export default function Home() {
     return (
@@ -45,17 +46,17 @@ export default function Home() {
                                                         <tr>
                                                             <td className="stat">(수출대금 수취)</td>
                                                             <td></td>
-                                                            <td>(+$100)</td>
+                                                            <td>+${store.storedWishMoney}</td>
                                                         </tr>
                                                         <tr>
                                                             <td className="stat">(선물환 매도)</td>
                                                             <td></td>
-                                                            <td>(-$100 +1,230￦/$*$100)</td>
+                                                            <td>{store.storedFetchData.forwardSell}</td>
                                                         </tr>
                                                         <tr>
                                                             <td className="stat">합계</td>
                                                             <td>(0)</td>
-                                                            <td>(￦123,000)</td>
+                                                            <td>{store.storedFetchData.sumOfForward}</td>
                                                         </tr>
                                                         </tbody>
                                                     </table>

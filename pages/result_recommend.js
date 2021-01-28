@@ -1,6 +1,5 @@
 import Head from 'next/head'
 import Link from 'next/link'
-// import {observer} from 'mobx-react';
 import React from "react";
 
 import store from '../common/store';
@@ -29,8 +28,8 @@ export default class Home extends React.Component{
                                 <section className="clean-block clean-form dark">
                                     <div className="container">
                                         <form>
-                                            <div className="form-group">수출할 금액<input className="form-control item" id="wishMoney" value={store.storedWishMoney}/></div>
-                                            <div className="form-group">수취 예정연도<input className="form-control" id="wishYear" value={store.store_hello}/></div>
+                                            <div className="form-group">수출할 금액<input className="form-control item" id="wishMoney" value={store.storedFetchData.dollarBorrowing}/></div>
+                                            <div className="form-group">수취 예정연도<input className="form-control" id="wishYear" value={store.storedWishYear}/></div>
                                             <div className="form-group">
                                             </div>
                                         </form>
@@ -70,7 +69,7 @@ export default class Home extends React.Component{
                                 <div className="col-md-5 col-lg-4">
                                     <div className="clean-pricing-item">
                                         <div className="heading">
-                                            <h3>옵션시장 이용(준비중)</h3>
+                                            <h3>옵션시장 이용</h3>
                                         </div>
 
                                         <div className="price">
@@ -93,9 +92,9 @@ export default class Home extends React.Component{
     };
 
 }
-
-Home.getInitialProps = async (ctx) => {
-    const res = await fetch('https://api.github.com/repos/vercel/next.js');
-    const json = await res.json();
-    return { stars: json.stargazers_count, stars_2:json.subscribers_count }
-};
+//
+//
+// Home.getInitialProps = async (ctx) => {
+//
+//     return {}
+// };
