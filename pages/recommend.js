@@ -68,7 +68,7 @@ class Home extends React.Component {
                                                                       onChange={this.handleWishYearChange}/></div>
                             <div className="form-group">
                             </div>
-                            <Link href={`/result_recommend`}>
+                            <Link href={`/result_recommend_export`}>
                             <button className="btn btn-primary btn-block" type="submit"
                                         onClick={this.handleButtonClick}>추천 받기
                                 </button>
@@ -86,7 +86,7 @@ class Home extends React.Component {
                             <div className="form-group">수입 예정연도<input className="form-control" id="wishYear" onChange={this.handleWishYearChange}/></div>
                             <div className="form-group">
                             </div>
-                            <Link href={`/result_recommend`}>
+                            <Link href={`/result_recommend_import`}>
                                 <button className="btn btn-primary btn-block" type="submit" onClick={this.handleButtonClick}>추천 받기</button>
                             </Link>
                         </form>

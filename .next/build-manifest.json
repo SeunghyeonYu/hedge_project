@@ -14,6 +14,11 @@
     "static/development/_ssgManifest.js"
   ],
   "pages": {
+    "/": [
+      "static/chunks/main.js",
+      "static/chunks/webpack.js",
+      "static/chunks/pages/index.js"
+    ],
     "/_app": [
       "static/chunks/main.js",
       "static/chunks/webpack.js",
@@ -24,15 +29,35 @@
       "static/chunks/webpack.js",
       "static/chunks/pages/_error.js"
     ],
-    "/result_recommend": [
+    "/future_market_export": [
       "static/chunks/main.js",
       "static/chunks/webpack.js",
-      "static/chunks/pages/result_recommend.js"
+      "static/chunks/pages/future_market_export.js"
     ],
-    "/short_market": [
+    "/recommend": [
       "static/chunks/main.js",
       "static/chunks/webpack.js",
-      "static/chunks/pages/short_market.js"
+      "static/chunks/pages/recommend.js"
+    ],
+    "/result_recommend_export": [
+      "static/chunks/main.js",
+      "static/chunks/webpack.js",
+      "static/chunks/pages/result_recommend_export.js"
+    ],
+    "/result_recommend_import": [
+      "static/chunks/main.js",
+      "static/chunks/webpack.js",
+      "static/chunks/pages/result_recommend_import.js"
+    ],
+    "/short_market_export": [
+      "static/chunks/main.js",
+      "static/chunks/webpack.js",
+      "static/chunks/pages/short_market_export.js"
+    ],
+    "/short_market_import": [
+      "static/chunks/main.js",
+      "static/chunks/webpack.js",
+      "static/chunks/pages/short_market_import.js"
     ]
   },
   "ampFirstPages": []
