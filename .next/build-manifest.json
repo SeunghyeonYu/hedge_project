@@ -29,35 +29,10 @@
       "static/chunks/webpack.js",
       "static/chunks/pages/_error.js"
     ],
-    "/future_market_export": [
-      "static/chunks/main.js",
-      "static/chunks/webpack.js",
-      "static/chunks/pages/future_market_export.js"
-    ],
     "/recommend": [
       "static/chunks/main.js",
       "static/chunks/webpack.js",
       "static/chunks/pages/recommend.js"
-    ],
-    "/result_recommend_export": [
-      "static/chunks/main.js",
-      "static/chunks/webpack.js",
-      "static/chunks/pages/result_recommend_export.js"
-    ],
-    "/result_recommend_import": [
-      "static/chunks/main.js",
-      "static/chunks/webpack.js",
-      "static/chunks/pages/result_recommend_import.js"
-    ],
-    "/short_market_export": [
-      "static/chunks/main.js",
-      "static/chunks/webpack.js",
-      "static/chunks/pages/short_market_export.js"
-    ],
-    "/short_market_import": [
-      "static/chunks/main.js",
-      "static/chunks/webpack.js",
-      "static/chunks/pages/short_market_import.js"
     ]
   },
   "ampFirstPages": []

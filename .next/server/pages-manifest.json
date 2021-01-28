@@ -2,11 +2,6 @@
   "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
-  "/result_recommend_import": "pages/result_recommend_import.js",
-  "/short_market_import": "pages/short_market_import.js",
   "/recommend": "pages/recommend.js",
-  "/result_recommend_export": "pages/result_recommend_export.js",
-  "/future_market_export": "pages/future_market_export.js",
-  "/short_market_export": "pages/short_market_export.js",
   "/": "pages/index.js"
 }

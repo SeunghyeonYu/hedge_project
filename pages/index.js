@@ -39,19 +39,19 @@ export default function Home() {
                 <p> 환위험 관리여건이 취약한 중소중견기업이 환위험을 손쉽게 해지할 수 있도록 제도 및 비용면의 도움을 드림으로써 적극적인 무역활동을 할 수 있도록 지원</p>
               </div>
               <div className="row justify-content-center">
-                <div className="col-md-5 feature-box"><i className="icon-star icon"></i>
+                <div className="col-md-5 feature-box">
                   <h4>환헤지(Hedge)</h4>
                   <p>환율변동에 따른 위험을 없애기 위하여 현재 수준의 환율로 수출이나 수입 해외투자에 따른 거래금액을 고정시키는 것</p>
                 </div>
-                <div className="col-md-5 feature-box"><i className="icon-pencil icon"></i>
+                <div className="col-md-5 feature-box">
                   <h4>환헤지의 목적</h4>
                   <p>환율변동에 관계없이 원화기준 미래 현금흐름의 확정을 통해 안정적인 영업활동 영위하는 것</p>
                 </div>
-                <div className="col-md-5 feature-box"><i className="icon-screen-smartphone icon"></i>
+                <div className="col-md-5 feature-box">
                   <h4>환헤지의 방법</h4>
                   <p>통화선도(선물), 통화옵션, 통화스왑, 보험, 기타 금융상품을 통해 향후 환율변동에 따른 위험을 관리</p>
                 </div>
-                <div className="col-md-5 feature-box"><i className="icon-refresh icon"></i>
+                <div className="col-md-5 feature-box">
                   <h4>환헤지의 활용</h4>
                   <p>수출기업은 통화선도(선물) 매도, 풋옵션 매입, 통화스왑, 수출환변동보험을 통해 환헤지를 수행</p>
                 </div>
