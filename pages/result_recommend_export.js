@@ -25,6 +25,7 @@ export default class Home extends React.Component{
         data: undefined,
     }
 
+
     render(){
         return (
             <div className="container">
@@ -47,7 +48,7 @@ export default class Home extends React.Component{
                                 <section className="clean-block clean-form dark">
                                     <div className="container">
                                         <form>
-                                            <div className="form-group">수출할 금액 <p> {store.storedWishMoney} </p> </div>
+                                            <div className="form-group">수출 대금 <p> {store.storedWishMoney} </p> </div>
                                                 {/*<input className="form-control item" id="wishMoney" value=/>*/}
                                             <div className="form-group">수취 예정연도 <p>{store.storedWishYear} </p> </div>
                                             {/*<input className="form-control" id="wishYear" value=/>*/}

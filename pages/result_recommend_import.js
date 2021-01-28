@@ -47,9 +47,9 @@ export default class Home extends React.Component{
                                 <section className="clean-block clean-form dark">
                                     <div className="container">
                                         <form>
-                                            <div className="form-group">수출할 금액 <p> {store.storedWishMoney} </p> </div>
+                                            <div className="form-group">수입 대금 <p> {store.storedWishMoney} </p> </div>
                                                 {/*<input className="form-control item" id="wishMoney" value=/>*/}
-                                            <div className="form-group">수취 예정연도 <p>{store.storedWishYear} </p> </div>
+                                            <div className="form-group">지급 예정연도 <p>{store.storedWishYear} </p> </div>
                                             {/*<input className="form-control" id="wishYear" value=/>*/}
                                             <div className="form-group">
                                             </div>
@@ -65,7 +65,7 @@ export default class Home extends React.Component{
                                             <h3>선물환시장 이용</h3>
                                         </div>
                                         <div className="price">
-                                            <h4>￦{store.storedFetchData.sumOfForward}</h4>
+                                            <h4>-￦{store.storedFetchData.sumOfForward}</h4>
                                         </div>
                                         <Link href={`/future_market_import`}>
                                             <button className="btn btn-outline-primary btn-block" type="button">상세 이동</button>
@@ -75,11 +75,12 @@ export default class Home extends React.Component{
                                 </div>
                                 <div className="col-md-5 col-lg-4">
                                     <div className="clean-pricing-item">
+                                        
                                         <div className="heading">
                                             <h3>단기금융시장 이용</h3>
                                         </div>
                                         <div className="price">
-                                            <h4>￦{store.storedFetchData.sumOfMarket}</h4>
+                                            <h4>-￦{store.storedFetchData.sumOfMarket}</h4>
                                         </div>
                                         <Link href={`/short_market_import`}>
                                             <button className="btn btn-outline-primary btn-block" type="button">상세 이동</button>

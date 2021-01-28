@@ -64,7 +64,7 @@ class Home extends React.Component {
                 (
                     <div id="wishForm" style={{display: 'block'}}>
                         <form>
-                            <div className="form-group">수출할 금액<input className="form-control item" id="wishMoney"
+                            <div className="form-group">수출 대금<input className="form-control item" id="wishMoney"
                                                                      onChange={this.handleWishMoneyChange}/></div>
                             <div className="form-group">수취 예정연도<input className="form-control" id="wishYear"
                                                                       onChange={this.handleWishYearChange}/></div>
@@ -84,7 +84,7 @@ class Home extends React.Component {
                 (
                     <div id="wishForm" style={{display:'block'}}>
                         <form>
-                            <div className="form-group">수입할 금액<input className="form-control item" id="wishMoney" onChange={this.handleWishMoneyChange}/></div>
+                            <div className="form-group">수입 대금<input className="form-control item" id="wishMoney" onChange={this.handleWishMoneyChange}/></div>
                             <div className="form-group">수입 예정연도<input className="form-control" id="wishYear" onChange={this.handleWishYearChange}/></div>
                             <div className="form-group">
                             </div>

@@ -2,327 +2,99 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cb8f30f4-12df-4d5d-9122-0c419c3a769b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/content-v2/sha512/00/90/7c5b5e3842d19aab2480ae2ba9f4ca69c452c63f8f1d2ff244626e01dfce13a2bed710deb9403cc19e2ebef32605562b7f46e60c20c9315153c634d2bf9f" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/content-v2/sha512/0e/46/d335c47e56a18c5d991a0fb13039db006dc2f9f014462f552dd3208056a0ad129f6e7f9a10ad5a3a37eb861554343e0fccd41f9728fae31a5a47753c4f2d" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/content-v2/sha512/17/7e/435473ef3579ac4a5e2fa24459eea32f4243f98e6a3a421025f0bfc3b2024b24ae48f44675c07a00870359dbc7dbe2ab91524bc0f040afad4b45e0fbdb04" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/content-v2/sha512/19/c0/64ef4341ecd4fa70dfba31b7c9ce50ccee74069be6b9ea7faacf6c4539936ac9fff66fb1caa94a880593883666a2173b6b0b65893d62755c142f875d885c" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/content-v2/sha512/1c/ac/5a7163784b420985406f6105df90bc3770462fdd6c743771c97267f7fd2851ced520d554d17b1506f0a2c62b3658fbe45050ff7ae39f14f39a4070ac2bac" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/content-v2/sha512/1e/0c/5cbd929072c53c860bcd1f59927cde0672f0d86da9b8123effcb3f7fc72d137a58f4992ba963f233a09d0714813ae36137e21b75a1532ef071f0b72b6898" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/content-v2/sha512/1f/7f/03c2afbede0e7f8b40c83ae95a28c82d446292818c34da9c17b70da88211de10dbc88ce7d801f2523b92a2593f0de303b2be27c63faa2b3b34b9be2f786c" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/content-v2/sha512/30/88/ca7c4d37a1c8b4fef89c7e72adc2b48a94a901f314d78699fb21519eaed92993e1c77cec83cdf07129edc7514a29ba2288f269461d609d1e1a00c154f0b1" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/content-v2/sha512/30/9f/73fba58f230af9b27c49f73e46dd024268d40cd584770d8ba06a208d302f486795b040213ab0c2d6e1625b1934ba3760169f6c8f2492e5eafe3d77c9b28e" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/content-v2/sha512/38/af/03eca4590cdaf4e29dd7da6b7a082251505f3d6e85311bb2fffc00a262f8191d99d783f2c667520472db49ec65dd9d1276dbcc49d2b31690c589e84d35fd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/content-v2/sha512/40/96/d193aeb0a510d2b66200e90218dc3b2ccbb776bd69bdf29e9ae90788081da6c59cbc8a41f32eed8bfc6ed0304f5ed49337008ff8ad6d13147ba39e9e6a94" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/content-v2/sha512/40/f9/d25c740e688a3380a0730b9ec0eb86193f6a9533736a11fec985eb22a943abb8e47cbc3ffc38f64ce728c10359c9047481b9b3593961353626cbca9caf96" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/content-v2/sha512/43/5c/2e26583f22dec636920f1c3987574718e2f330d092a7cf11e1f9c98e4a5f72f8b0c7b86e9def34d4b871b268fecd03b733d11e0a3812bba4855900801458" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/content-v2/sha512/46/7d/b1074c8271cf0eca5880d8473be6b1f9d0e9b7f9d4afac99413035d88ca86c66ea87264b7cda44ee1a2c0b3a6accc4a14d9eb4ed44229dec27b5f701cb65" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/content-v2/sha512/4b/ce/aa602c6a96845a52ad7b799ba367b3f0ed32442758a66893db0bae7341cafca62e03c24b1cc0af187a454c8e7ef81ba59b9e84fa0be87320908ab9693122" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/content-v2/sha512/50/05/b380f31cd9aeefbcd0b08f32dc51f3b32172300e1f084ca6cd926a9d16aa370c9ac1776ad15cf2e5a0c60d624bf13f31f6138166ac1378f18908b6cbb6a0" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/content-v2/sha512/51/55/11a3438f9b35307f93b1570899c29bd756a00f5eb204c9f77544728aad1bfbf2b93a1f5385ddab1772e1d1860a2401163357d28ca9f2f34bc23f4f4bbab2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/content-v2/sha512/51/e5/e39ea73aa546c4b5dd696ac613836eeb031ab9b57024c2ee72f1abfa8d3be6136b0fad24df96e9ab7edbf6461f583a4e79caeed99b92b7690e30c98404cc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/content-v2/sha512/55/06/c363677b3cc3e33382879c570259e6fee1e58ce14346039df8352f63dc1d09b52367c6d97bd08ac00d07e69d1db4b58e3e985506758c665f3dad91b59918" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/content-v2/sha512/57/46/fd5e610d26a7705c007aa35af3d77d203cbee51b785d55ce0f7b814aade16d25621297671e2971d03fbd7d48e188e0108d6bfd18ed33632386f950aebe0d" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/content-v2/sha512/61/96/f82bbc6bee921637ce25942c0dd6dfa3b71529a400edb09d368587b32fcf0ec957668d1e002892c081d477fe4e15e25df34878c724af077766c68c93d1bc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/content-v2/sha512/68/a6/2428a4cb7bce4036e80d74db3bca5d82ca6e971b04a9e5d7ccac28977a94c825cfeddadb5c0bc3426b12490ae993b2fd7b7fb0b722313cffe2c9760d2d4d" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/content-v2/sha512/72/66/207125ad524819574e6e680bb3a79c3470528a5bcba5ce21e21d71b25290ae877dd374c2bfb304fb02c5531b9555acee881beaaf55aa4031edb87d4a49d6" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/content-v2/sha512/73/fa/e154925a4966c8420c177045c1d44e3cf2658cda3fb3f61d1c77fb25ab1900d3c6ea73c5f0feb71117c9d78daf3805cabbd59da05c6e907ec1796dd45ae8" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/content-v2/sha512/80/0d/131c3c1375e84660a33d4460bf9bbd8d1c94203154030b56f7a85ae7533f15d91719ae36c2cbd1286275120dd053235d4c306d976260fab7bb52d690827a" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/content-v2/sha512/86/c6/8f11cca70b559b8c32ee4a8c35729b60c82dc4f960b5839ac2a41bd90d50b6e661dd84850856c687406aa42d6aa7e23cd52e491c21eb26e2fe7ddef9e754" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/content-v2/sha512/86/d4/bc13824b5d8679168850fbf7c69f54c2bc168a25a75c18c49ac16743bd955f059c0f30492ae423b0bbabf2dcf1050fed6b7b0262ef3d2afb5e10f5cf6779" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/content-v2/sha512/8d/8e/82e1510a43aabe0d49fe3655d2741f8feca2c8b4ab93f736528575b4957ee531140f74db27b24a814b5ddca1c36666534f656018b992fee7b2b68928586b" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/content-v2/sha512/93/9a/c81f9f36155d0f60b0a113488f72b26685cb447560ec1561f4bfecd09f57f6b09d80a6f94a14ea312fd040c034f83d6a95f127437afec69f567c31dd48f9" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/content-v2/sha512/a0/dc/2e0845f1bc82ea39074d771a3a51e1a96c752c7d40bf75e2710b74129acb245427beaeeb08aff54603358c4f1c80474e20f1d8355f362d15c9490439491f" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/content-v2/sha512/a3/0f/052dd5027c85046d7acebae5c0f171267e3fa3d488605ddd0e9d45b6c0901d66ee7d0724edbd40b609b9c8311b869aa08c12320c5cae5edee2cdddad586b" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/content-v2/sha512/a6/ea/0241e0eab641eea478fcc216c0ab641a25f35c41e567e78cc010c93cc685bec4609307916fbd634aaedfb9cdfa298185f4da50ebda2cbc7304b9350a079c" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/content-v2/sha512/a7/6c/0dd7c6919d600006f23f051f2b795e8af8ee7adb0cd3700a630b2c7623880768bcb94b0824a4d2807e0f8299f2497c31e4ec419d5f5cab8f5e43ca7cb4e6" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/content-v2/sha512/a8/4a/c6041f859c56534405101ecd3908ff65ec8c90fca41f9570abc83aff734163349fa77e311d95eae5b9dce321d644a9ccde0b01d30c9c459e3798e63b8167" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/content-v2/sha512/ab/37/f63a72e93fb5393515dce99df62de267402fcf723e5a3a78f4df08ee1ee2c668a7865ab8b46d9a71940c9c229a06e87f99457f663781793cf2a653a743ec" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/content-v2/sha512/ac/56/4bdf6f59bfa7eaa90814b82e001083c22931e55af60263d48b8a9391ef5827cd637229a07cc7467b8e471344d65a81f4c218b20686ffc0fa9ac0de54c1ac" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/content-v2/sha512/b9/20/c652d23da5b3f092ff33111a3b6893d7bf008b58359de1630c22a7a1d9d05b0199f9b1e71ffa474d8eccb3dba0a5e85bd79db73fee83837e8c7b26a4206f" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/content-v2/sha512/bb/16/dcf150de6d7c72556aebe047364669da88037cc4942659c8ca25baaf5b3af0ddd678a8187d81c8f0f48c444a3240f92edc9466d2eb4065a5345a8c2c9a21" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/content-v2/sha512/bc/29/781810e805e9a82d3375846d0efb658555cb0aa7aa968985a4bc607e4bce21c78ceb2a847fa4812e17122c16bc5e93401c7d14d85c9826af5d55348458ea" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/content-v2/sha512/c2/a0/46a07c8139af198a6507776dea1f939eb8a8476816ceca03363213f9db46286b1bd207cafaa39da0a541c35dd2327c8a450355831241a6e662eba32f8467" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/content-v2/sha512/cb/4b/ba351f64571ea02ed083963d5c08097f3b70cdf8e3471c339b151f3979b6dd34b051970ebafe370bd640038c86266ed3049abbd1c79accf731e0948ae134" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/content-v2/sha512/d5/29/a02077c8b9d41acefa07d4aaabcefce36e948a1f8453020c2ec8843684b44eaae3b737cbe92bca87f61c763889698060acc434c17337390509aa81f98009" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/content-v2/sha512/d5/3d/d4093a0792e2625403bfc848dd550dec1775b9340381f2237d2c529bc5c24ecbc47393edb9e7df23602b6a4fe4cf678f7630e114b64ce88231daf442340c" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/content-v2/sha512/db/10/3bad46eea255b58146829ef3eb7ecd5882b5a10371f02ea03c3705de45aabce2972b35c929967b62575d4edaeda74835c196223e61f25c187f3131976597" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/content-v2/sha512/dc/4d/03779c99d4498b0ab49c5884ee65d22ad03f6b02d0c0b9834d2b077af011d83d070c76a7b134410212e34499ee45ce01aa3e79afe5daf91c7d955591a91e" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/content-v2/sha512/de/f3/bb2c3a5a6aab5ebbfc8d2e088b4b8da9372b909fded6726954e71a3833d2040501a94a4c9653aa9e3c94eb88de7144988a339e90155a986578950737b433" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/content-v2/sha512/e0/d0/c84a03f6e470d2aba60406b50296799073af509b17068959f0042cdbf9dcf53f24f14ff6847085359780553c124383343ad7e0d4b55e59ef34b7a5a8ae32" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/content-v2/sha512/e1/89/5b00125afc6a1f2e0115510d4b57747f14667b3a6abe9d78c11ed21a7cb07ae28697eafaf716a1b4b4c873c2a0352ac54ce43f96dd4264f2f3577f866823" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/content-v2/sha512/e1/d4/55f76de20ea2e2bde6642f00c75569b9d58397a8125424018831fc9b2f0902f0b2f5546e8fa24099d47ef85249ccfccaa0bdea8cb6e5c44453313bb751af" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/content-v2/sha512/e2/fb/de80512df184c3920aff14c432dce162c78b091eab626b72c74071db90412701a24ae247d2225616dedc07939fe8ddb24cea9dbf218025c2fd7d24bc256e" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/content-v2/sha512/e8/a2/31be80a054c9176368ff0ad29dc87487fa54f38610ba5cb96741ce5eddb1fdf31caa6a1d12635db4a79859156d22ecd5c3cfd2918f6d7c83109d6649d368" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/content-v2/sha512/e9/87/c562ee9f18c029f5cc9154f9c1f7062f5e2e2cf499afb99c7e99dfd99d75cc72926064cf61aed2ccf0bebcca3700c710d06d3b01b3f47085a436db2c0932" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/content-v2/sha512/ec/6d/616d62789bf1c572ff79e89129ebd1198c924fe50a9a72eb300a335d844fb540dbb5a434a060bd6915bc12bba7706a89ff824308bb9e4bb9626de46d8c5a" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/content-v2/sha512/f1/d7/03e01a5d6334fd26481af45b9678ed4f5c23512ac1fe1e4e5a5998d1f68f59e1dee07b6ec563cd02157e1a43df79057f34e67f6a83002d7fa2d519e86bff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/content-v2/sha512/f6/97/06c73e19ebb5971ad960b13a0181f8cfbaf2bf16898e82143dca9e0e577e9999e3cb9e4b223fc9dbf580c18aa109f933c72ca2d5f134e5677281b6d4e768" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/content-v2/sha512/ff/0c/71c434104e05d54c8382afe866c57ae7a85aef44cbb8f2ad7eb8c24eba8735d47c2312ea8222c30bddf27731be79dc20a7f6b7c7bb0eba3d1b6c97a00994" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/content-v2/sha512/ff/7e/51fc7ab9cf9a456583969e091a00aaa680a85f987c40fc97f8e3574849b92f7ef6578c75cd52667121db7c373017ee37e2a0930041a3383e6f79fa876734" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/content-v2/sha512/ff/f0/389f6ccf962d7486f72e7bf639df5465d2c4f4d03016a1f74c14e70aef454f190e7815a62c45ac72cbab2c0f3699b246722939fcb4ebdb033251d969d9ce" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/index-v5/0e/6a/b3bf44fef4201101f6ac61d3051f993db2d96cece71a3756f31afff955db" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/index-v5/13/3b/6bc474a245204cbc4d8cf4e5a472cbf1138adc2ecbcdf778e3ddac54a440" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/index-v5/1f/2d/f19845eef28c8b8e6cf5eb2f8d24aac73029110aec703fde41808d2a4091" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/index-v5/21/e1/74bf4f011e2b1e184c6f30409dbbea44fc9718e8b49eff3d54434af136bb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/index-v5/23/68/bcbd2fc93e10c415b081a0ac2ac1dcb7a4894fd5b2eb6521ce01d9dbadea" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/index-v5/27/7c/f0f946098bf1b2d5bb3da3c77b4da82259191ad49ce1bf2732ad36cb08a6" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/index-v5/2a/e2/5aad49e94ca425cdb3203d9981f1e11233b1bb3bd669978d9fd6947c0268" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/index-v5/2d/46/137f180fb0e83ae6363d09c957b2208649d88bab11072b99a4830479be9e" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/index-v5/33/d5/65d028aa7e303b67426f5b4526de4f9a105729a73bf6524232d21d71f55c" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/index-v5/38/b7/5e8aecffe4ae1ceb4e2736bae3ce89967e9efb5e1da6566471da2c05af04" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/index-v5/3a/d8/b48c78789dc05a03f606e9db9346b914d9cb5191c51dc81a24dabc338134" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/index-v5/43/de/4d0c27c8c2d14455025c27ede21d1480c17a1036dac2ceda09d737882db2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/index-v5/44/09/1c28e75dfd947bd126537ba40c64de223067618974673d08f3aa8b6d291e" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/index-v5/47/57/629a0a86504b5cd28583f51e62aacfc94d8816e0124ef171344e2d5826e7" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/index-v5/4a/5b/05b1b6ddeed8d34ac9ab1f34c7a81be482ff7783e4850988e24819c128a3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/index-v5/4c/71/5849bd36a3e37064b3e8cd3e86dce2f3bd2b295efa25d8f5ea79f398010d" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/index-v5/4e/9a/d3d7b537956d89bad8de4ba7905e596005a1ed00c1076694834cc1bbbb4a" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/index-v5/4e/e5/bff2a9bdaa63e28bddcf0d7f75a8ad0e517c0b6983b37d8a11ef7bc88d94" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/index-v5/51/a9/7bb278cb3628c57c0cae5f3ce21b6192e2c37407554ab91c8414e20d113a" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/index-v5/53/ae/65d134b263ac5562a33937854061ebc57f2760becf7f743758ce5c9e61ca" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/index-v5/55/c2/08495989e04df7fb17f73b42796110651bf803e615789160bcf8b1dc271c" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/index-v5/5c/49/eed4412ab84dea85d98c20b4552a228d18c06afe3bc8946c55829b3e8820" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/index-v5/5c/c9/2bf92fceecdec0fbfd2bf63dc23ec9cee972e65d86a90fe36f22ccb6e35e" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/index-v5/5f/85/89b81391df2b39515a324acb17e395163ba7b487ce21fadd3041c28bda8e" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/index-v5/60/ab/0f004f966e17cf98db5526dafea5012f9af97dcaa5e434aedb17d6dc3af9" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/index-v5/62/f1/1486edcade1f52481bb286f698b034ecdcb632d549968738c5010e5a94d9" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/index-v5/66/f4/e9cc933384a3ed7fa92ca0bd914287b11a075bed1fbb2355455dd3b30424" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/index-v5/67/58/8101a7abca710ae4ca21ed4911bc91a27f67f8c2ac4d0f234780eb29bf1a" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/index-v5/68/02/0800f6e179f2a75b62d8c325867271faff60a85bcf8f6d80e8dc419dea2e" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/index-v5/6d/93/877a8cf82dcc4c8b491f62f0ea2ab45b35516ab37a245d14a3ae8989e834" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/index-v5/78/11/26c6e940fd6a46ddb28fe0ced85ffa628f28db9ccc2bd294762b5c5494f2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/index-v5/88/04/695aba3feffa46a1f25d58df7c3f32370b148ea4f6819f9891da8c75edce" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/index-v5/8f/5d/45c13f4b5d19413aba6bf3f9fc26cad97948baa790e3fa7fc0f0ed5919fc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/index-v5/9d/cd/895aa29254fdcb49c6efda06679430a19326fc6fee11ac73d2c1e7d9dfc5" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/index-v5/a0/68/accd472df746294037a31430a01354545fd9f8f77dd5ae3d7a3681eb2962" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/index-v5/a2/f0/ba726bfe52ee64f31b121878a4919482624653839a105acbb22404e81e54" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/index-v5/a5/83/80badb1086bc699ab552e2188c12cd2dbbb7f2720af86fa3d20d7dd38595" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/index-v5/a6/ce/cbf0ffc454b7d527544d2b536d12fffbb9c19051f9069d60fafb0f0c127f" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/index-v5/a8/d2/f5a3fdc2f165c8d7ad2cb679082e792d06ee88ce1fb70f2877d0276260ab" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/index-v5/a8/fa/212fc934d7ee4b84f4a5aa487c1c617644bd4faddb2efb2dbab0f666d6ac" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/index-v5/b0/75/3b72c7ce642492dd9fd476136f361073d06a6384a64b4837bfd5e2dfda6e" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/index-v5/b5/d4/3098117212b099fe077219a6313cc8f23afcb865396ee4af5d3930e7b74e" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/index-v5/b6/c6/28495bcaa1d04cc43c614abd381ddf8e169a2cf1980c6a152a487ffbe996" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/index-v5/b9/50/f5ea8d4fe71477d73cee4b44c4bef89065c2862fafc20e62c0d94786d70f" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/index-v5/c8/b0/3dc9cca8383e444553647e1417564734f5dbfc763017f2f89eef4cd0a3d9" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/index-v5/c8/d2/a28a11f47d3f7a08e4a8a1a7cacf4cf315ab68839dcf4e2627ab1d8b2ff5" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/index-v5/ca/3f/9b33ca5b8fd8f389a71beb1f43e58af5eea2ab2740a4890eab5f995c84d7" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/index-v5/cf/0c/8997ea6894983a079fca4916bbff6403c41fdec503d32128a44f3c2ec7c1" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/index-v5/db/6c/0bf570fb172aa2f29758d12585a9348f7e2b865f909efe0f773c895889e8" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/index-v5/db/a5/a1b74464c998e402434fc29efa1db943354af5c6c494c714b791b50f643a" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/index-v5/db/e1/bcf926155a63e587a98aa0689f7d21375e2bee930bf8afafd52fca3581f0" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/index-v5/e0/01/6d80799aef07e82c0ab969b9d528e09c1c99abdc6a932dd733ee250b3889" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/index-v5/e5/b8/ba7b88dcfa5d394db80544f24212fb5498e5d9b7f6e63b37589cfbd6e821" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/index-v5/e8/ae/faa352efffdda19b2ec59c8d506663fcde7be83a4dba1776a40e4c78f52b" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/index-v5/eb/8b/937f97aadbc402b3f3bd831074ff1c0528f23dd9166c9be93fe7f30da91b" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/index-v5/f5/3d/9882a311539adfe3d1195f4433d70427462fd33a87c2ab772dd3a6b959eb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/index-v5/f7/46/7b9a71e4c7b8f84710291448f5f388002d10e1f46a4ed93f96911375fe60" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/index-v5/fb/98/58ef75db502bb29db045e89d6e424f2ed6f37787285f0a54241736ebcfbb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/static/webpack/0452224f7110c652901b.hot-update.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/static/webpack/0583e7ed06f946a9acbd.hot-update.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/static/webpack/0e63d183538e1b73cf4d.hot-update.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/static/webpack/103eca3015a4d8759d50.hot-update.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/static/webpack/2086d8212303f42a8738.hot-update.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/static/webpack/27195e9c12e3781c67d7.hot-update.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/static/webpack/3424f15725ad48871f6a.hot-update.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/static/webpack/3c8b164b8e552d569acb.hot-update.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/static/webpack/4867d2e04f5de1ff3d83.hot-update.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/static/webpack/492c2e9b56dcbd4bc206.hot-update.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/static/webpack/4e26658ebdf85df6d987.hot-update.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/static/webpack/5518b2d73a20801434a4.hot-update.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/static/webpack/56c634499dae7b345e42.hot-update.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/static/webpack/5791d893b4839abe2bae.hot-update.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/static/webpack/59429d1fd6d2fd6c3c5f.hot-update.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/static/webpack/5d8d7b3bfb02c34ff435.hot-update.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/static/webpack/5e381c87036fd62482da.hot-update.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/static/webpack/6808a7e8ad72c9c35d33.hot-update.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/static/webpack/73dc630d2c5ef4e0516c.hot-update.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/static/webpack/7ab8f893a27441d8d6ca.hot-update.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/static/webpack/8b663e38951b0c58b359.hot-update.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/static/webpack/921e7556eab56356674b.hot-update.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/static/webpack/a1ac9aa3c4f7fe4152f9.hot-update.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/static/webpack/a26e72f1c38bb4169bef.hot-update.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/static/webpack/aa72478f86678ef1d109.hot-update.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/static/webpack/b19d7f9458fc2628322e.hot-update.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/static/webpack/b32eb5328fa2bc7eb534.hot-update.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/static/webpack/bc43767eae68622ffd64.hot-update.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/static/webpack/be7813ce7fa6c292b6b5.hot-update.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/static/webpack/bf7d9179948d60143c7e.hot-update.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/static/webpack/c22a8e311f204de2ee09.hot-update.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/static/webpack/c58d27d37d9967f45230.hot-update.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/static/webpack/c8ca84dbe89ddbe1595b.hot-update.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/static/webpack/ce71254a82558df7857a.hot-update.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/static/webpack/d2899c661e0abd81a2eb.hot-update.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/static/webpack/d72b2306a7b0a8f7e315.hot-update.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/static/webpack/d7470f1597012f06e7cb.hot-update.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/static/webpack/d8df05b2dd79bd41e787.hot-update.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/static/webpack/e9440509878363834a30.hot-update.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/static/webpack/f6440f8c26ae44ab804b.hot-update.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/static/webpack/fe8859850ea2d6706cc5.hot-update.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/static/webpack/ffe5f6898b0e17582081.hot-update.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/static/webpack/pages/_app.0452224f7110c652901b.hot-update.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/static/webpack/pages/_app.0583e7ed06f946a9acbd.hot-update.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/static/webpack/pages/_app.2086d8212303f42a8738.hot-update.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/static/webpack/pages/_app.27195e9c12e3781c67d7.hot-update.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/static/webpack/pages/_app.3424f15725ad48871f6a.hot-update.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/static/webpack/pages/_app.3c8b164b8e552d569acb.hot-update.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/static/webpack/pages/_app.492c2e9b56dcbd4bc206.hot-update.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/static/webpack/pages/_app.56c634499dae7b345e42.hot-update.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/static/webpack/pages/_app.5791d893b4839abe2bae.hot-update.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/static/webpack/pages/_app.73dc630d2c5ef4e0516c.hot-update.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/static/webpack/pages/_app.7ab8f893a27441d8d6ca.hot-update.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/static/webpack/pages/_app.a1ac9aa3c4f7fe4152f9.hot-update.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/static/webpack/pages/_app.b19d7f9458fc2628322e.hot-update.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/static/webpack/pages/_app.c58d27d37d9967f45230.hot-update.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/static/webpack/pages/_app.c8ca84dbe89ddbe1595b.hot-update.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/static/webpack/pages/_app.ce71254a82558df7857a.hot-update.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/static/webpack/pages/_app.d2899c661e0abd81a2eb.hot-update.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/static/webpack/pages/_app.d7470f1597012f06e7cb.hot-update.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/static/webpack/pages/_app.d8df05b2dd79bd41e787.hot-update.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/static/webpack/pages/_app.e9440509878363834a30.hot-update.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/static/webpack/pages/_app.f6440f8c26ae44ab804b.hot-update.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/static/webpack/pages/_app.fe8859850ea2d6706cc5.hot-update.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/static/webpack/pages/index.103eca3015a4d8759d50.hot-update.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/static/webpack/pages/index.bf7d9179948d60143c7e.hot-update.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/static/webpack/pages/index.ffe5f6898b0e17582081.hot-update.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.next/static/webpack/pages/recommend.be7813ce7fa6c292b6b5.hot-update.js" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/server/pages/future_market_export.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/server/pages/short_market_import.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/chunks/pages/future_market_export.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/chunks/pages/short_market_import.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/05cd2610508b0eeae965.hot-update.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/0737b52950dd5608f873.hot-update.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/07d7fdb34a15c5454959.hot-update.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/0c5db1401daec163ea94.hot-update.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/0fa3f72a4c4d6282ef30.hot-update.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/111ff26a0cefa59d229e.hot-update.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/14a4397220d2b33ebeab.hot-update.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/16f371139e33d928d22a.hot-update.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/1720cc509bd80596035c.hot-update.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/1cae5fd45b65a079b0e2.hot-update.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/21055fd2e78978821e08.hot-update.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/21f02b5a00877242e105.hot-update.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/2247b69429580e2bdca0.hot-update.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/29a370c21b5dfd52e998.hot-update.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/2ad6a3b25004cf1d7dfe.hot-update.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/2b62169fd81753ea0370.hot-update.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/2e230b213cbaf7342d52.hot-update.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/3412f293db88dd809374.hot-update.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/37adddb05756e59c336b.hot-update.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/387fce783191b7489156.hot-update.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/3d6e0bc259695cca8a9b.hot-update.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/4a56583b0b814b9ed5a0.hot-update.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/4ad80f9383bca6cdf385.hot-update.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/4c7fbd54f715e95fcf32.hot-update.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/5ada9878da2fd8ccd5cf.hot-update.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/5b3fd6bfdc5a470251b2.hot-update.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/5bc134a723b67d008653.hot-update.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/5ffe3113b188efdd3333.hot-update.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/6241b69f3b94f7841fc2.hot-update.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/67b160fb9f5d8c9a01aa.hot-update.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/681203221dfe6f8fd3e7.hot-update.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/70d0e200f6f695f9cab0.hot-update.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/719a2b9cb617bfee80b0.hot-update.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/71f7ff698c9723c5ae37.hot-update.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/74184f2e3c993b7623d1.hot-update.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/7613e8ef6aa548867e9f.hot-update.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/764d25c075f3e34ed39c.hot-update.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/7ca929a11386ecc72490.hot-update.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/7e05b3f9539964c2066e.hot-update.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/844c3a7017b1d86b8085.hot-update.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/892a041314b8d19b33f6.hot-update.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/8b9ddc0121fea1a47b61.hot-update.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/8d42437a1d84f758fa0e.hot-update.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/90251945d70f7d573b51.hot-update.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/913dabdd5a9825a407af.hot-update.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/928fc9f3416c6e6d5e1c.hot-update.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/987874f3035405da144b.hot-update.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/9c5164973da124c4a20e.hot-update.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/9dc8f6e1098f803aecf9.hot-update.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/9f593aac0d8f660dabf3.hot-update.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/a38a0b23ac752a7b9244.hot-update.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/a3c1fe5a14aac1842584.hot-update.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/a8a3ed63d0cd1b4e0178.hot-update.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/aa078368eb23abdc2d8f.hot-update.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/ab605e11ecebf4d4f7e0.hot-update.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/aca3bad38995e15dfcc7.hot-update.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/ae03e065c70ec2b5a233.hot-update.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/b3539d37fc5505d875cc.hot-update.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/b4b7ba6c371f95fbefc5.hot-update.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/bcdded467b75bf48d8db.hot-update.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/bdd830975e2f22fcf3a4.hot-update.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/c036968de65737319368.hot-update.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/c2ddb5a3434dc8e96355.hot-update.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/c4129504fe7790e528f4.hot-update.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/caa159b077c1fb588234.hot-update.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/cdb5549ab26470235d19.hot-update.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/da644539e7a791b53b92.hot-update.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/db2e84d2c3388104a018.hot-update.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/de56eba1bd180acf0437.hot-update.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/df269678c0afc17efbff.hot-update.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/e05514c1262672a9d819.hot-update.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/e174d169ff4040efcbc6.hot-update.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/e8cc1be91b2ce03d80b5.hot-update.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/f26679818d52d613cc70.hot-update.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/f78f1f7b82a9171f3998.hot-update.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/fad77e918e2b65423596.hot-update.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/pages/future_market_export.6241b69f3b94f7841fc2.hot-update.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/pages/future_market_export.70d0e200f6f695f9cab0.hot-update.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/pages/future_market_export.719a2b9cb617bfee80b0.hot-update.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/pages/future_market_export.fad77e918e2b65423596.hot-update.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/pages/future_market_import.05cd2610508b0eeae965.hot-update.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/pages/future_market_import.14a4397220d2b33ebeab.hot-update.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/pages/future_market_import.21f02b5a00877242e105.hot-update.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/pages/future_market_import.2b62169fd81753ea0370.hot-update.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/pages/future_market_import.71f7ff698c9723c5ae37.hot-update.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/pages/future_market_import.844c3a7017b1d86b8085.hot-update.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/pages/future_market_import.892a041314b8d19b33f6.hot-update.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/pages/future_market_import.928fc9f3416c6e6d5e1c.hot-update.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/pages/future_market_import.9dc8f6e1098f803aecf9.hot-update.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/pages/future_market_import.a38a0b23ac752a7b9244.hot-update.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/pages/future_market_import.a3c1fe5a14aac1842584.hot-update.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/pages/future_market_import.b3539d37fc5505d875cc.hot-update.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/pages/future_market_import.db2e84d2c3388104a018.hot-update.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/pages/result_recommend_export.37adddb05756e59c336b.hot-update.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/pages/result_recommend_export.987874f3035405da144b.hot-update.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/pages/result_recommend_export.df269678c0afc17efbff.hot-update.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/pages/result_recommend_import.913dabdd5a9825a407af.hot-update.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/pages/result_recommend_import.e05514c1262672a9d819.hot-update.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/pages/short_market_export.2247b69429580e2bdca0.hot-update.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/pages/short_market_export.29a370c21b5dfd52e998.hot-update.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/pages/short_market_export.ae03e065c70ec2b5a233.hot-update.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/pages/short_market_export.da644539e7a791b53b92.hot-update.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/pages/short_market_import.0737b52950dd5608f873.hot-update.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/pages/short_market_import.0c5db1401daec163ea94.hot-update.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/pages/short_market_import.16f371139e33d928d22a.hot-update.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/pages/short_market_import.21055fd2e78978821e08.hot-update.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/pages/short_market_import.2ad6a3b25004cf1d7dfe.hot-update.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/pages/short_market_import.5bc134a723b67d008653.hot-update.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/pages/short_market_import.7e05b3f9539964c2066e.hot-update.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/pages/short_market_import.9f593aac0d8f660dabf3.hot-update.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/pages/short_market_import.aa078368eb23abdc2d8f.hot-update.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/pages/short_market_import.bdd830975e2f22fcf3a4.hot-update.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/pages/short_market_import.c036968de65737319368.hot-update.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/pages/short_market_import.de56eba1bd180acf0437.hot-update.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/pages/short_market_import.e174d169ff4040efcbc6.hot-update.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/0452224f7110c652901b.hot-update.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/0583e7ed06f946a9acbd.hot-update.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/0e63d183538e1b73cf4d.hot-update.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/103eca3015a4d8759d50.hot-update.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/2086d8212303f42a8738.hot-update.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/27195e9c12e3781c67d7.hot-update.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/3424f15725ad48871f6a.hot-update.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/3c8b164b8e552d569acb.hot-update.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/4867d2e04f5de1ff3d83.hot-update.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/492c2e9b56dcbd4bc206.hot-update.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/4e26658ebdf85df6d987.hot-update.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/5518b2d73a20801434a4.hot-update.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/56c634499dae7b345e42.hot-update.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/5791d893b4839abe2bae.hot-update.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/59429d1fd6d2fd6c3c5f.hot-update.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/5d8d7b3bfb02c34ff435.hot-update.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/5e381c87036fd62482da.hot-update.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/6808a7e8ad72c9c35d33.hot-update.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/73dc630d2c5ef4e0516c.hot-update.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/7ab8f893a27441d8d6ca.hot-update.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/8b663e38951b0c58b359.hot-update.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/921e7556eab56356674b.hot-update.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/a1ac9aa3c4f7fe4152f9.hot-update.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/a26e72f1c38bb4169bef.hot-update.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/aa72478f86678ef1d109.hot-update.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/b19d7f9458fc2628322e.hot-update.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/b32eb5328fa2bc7eb534.hot-update.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/bc43767eae68622ffd64.hot-update.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/be7813ce7fa6c292b6b5.hot-update.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/bf7d9179948d60143c7e.hot-update.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/c22a8e311f204de2ee09.hot-update.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/c58d27d37d9967f45230.hot-update.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/c8ca84dbe89ddbe1595b.hot-update.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/ce71254a82558df7857a.hot-update.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/d2899c661e0abd81a2eb.hot-update.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/d54daa522192f93ae7ac.hot-update.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/d72b2306a7b0a8f7e315.hot-update.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/d7470f1597012f06e7cb.hot-update.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/d8df05b2dd79bd41e787.hot-update.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/e9440509878363834a30.hot-update.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/f6440f8c26ae44ab804b.hot-update.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/fe8859850ea2d6706cc5.hot-update.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/ffe5f6898b0e17582081.hot-update.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/pages/_app.0452224f7110c652901b.hot-update.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/pages/_app.0583e7ed06f946a9acbd.hot-update.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/pages/_app.2086d8212303f42a8738.hot-update.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/pages/_app.27195e9c12e3781c67d7.hot-update.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/pages/_app.3424f15725ad48871f6a.hot-update.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/pages/_app.3c8b164b8e552d569acb.hot-update.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/pages/_app.492c2e9b56dcbd4bc206.hot-update.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/pages/_app.56c634499dae7b345e42.hot-update.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/pages/_app.5791d893b4839abe2bae.hot-update.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/pages/_app.73dc630d2c5ef4e0516c.hot-update.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/pages/_app.7ab8f893a27441d8d6ca.hot-update.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/pages/_app.a1ac9aa3c4f7fe4152f9.hot-update.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/pages/_app.b19d7f9458fc2628322e.hot-update.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/pages/_app.c58d27d37d9967f45230.hot-update.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/pages/_app.c8ca84dbe89ddbe1595b.hot-update.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/pages/_app.ce71254a82558df7857a.hot-update.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/pages/_app.d2899c661e0abd81a2eb.hot-update.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/pages/_app.d7470f1597012f06e7cb.hot-update.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/pages/_app.d8df05b2dd79bd41e787.hot-update.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/pages/_app.e9440509878363834a30.hot-update.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/pages/_app.f6440f8c26ae44ab804b.hot-update.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/pages/_app.fe8859850ea2d6706cc5.hot-update.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/pages/index.103eca3015a4d8759d50.hot-update.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/pages/index.bf7d9179948d60143c7e.hot-update.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/pages/index.ffe5f6898b0e17582081.hot-update.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.next/static/webpack/pages/recommend.be7813ce7fa6c292b6b5.hot-update.js" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.next/build-manifest.json" afterPath="$PROJECT_DIR$/.next/build-manifest.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.next/server/pages-manifest.json" afterPath="$PROJECT_DIR$/.next/server/pages-manifest.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.next/server/pages/_app.js" afterPath="$PROJECT_DIR$/.next/server/pages/_app.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.next/server/pages/future_market_import.js" afterPath="$PROJECT_DIR$/.next/server/pages/future_market_import.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.next/server/pages/index.js" afterPath="$PROJECT_DIR$/.next/server/pages/index.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.next/server/pages/recommend.js" afterPath="$PROJECT_DIR$/.next/server/pages/recommend.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.next/server/pages/result_recommend_export.js" afterPath="$PROJECT_DIR$/.next/server/pages/result_recommend_export.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.next/server/pages/result_recommend_import.js" afterPath="$PROJECT_DIR$/.next/server/pages/result_recommend_import.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.next/server/pages/short_market_export.js" afterPath="$PROJECT_DIR$/.next/server/pages/short_market_export.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.next/static/chunks/pages/_app.js" afterPath="$PROJECT_DIR$/.next/static/chunks/pages/_app.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.next/static/chunks/pages/future_market_import.js" afterPath="$PROJECT_DIR$/.next/static/chunks/pages/future_market_import.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.next/static/chunks/pages/index.js" afterPath="$PROJECT_DIR$/.next/static/chunks/pages/index.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.next/static/chunks/pages/recommend.js" afterPath="$PROJECT_DIR$/.next/static/chunks/pages/recommend.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.next/static/chunks/pages/result_recommend_export.js" afterPath="$PROJECT_DIR$/.next/static/chunks/pages/result_recommend_export.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.next/static/chunks/pages/result_recommend_import.js" afterPath="$PROJECT_DIR$/.next/static/chunks/pages/result_recommend_import.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.next/static/chunks/pages/short_market_export.js" afterPath="$PROJECT_DIR$/.next/static/chunks/pages/short_market_export.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.next/static/chunks/webpack.js" afterPath="$PROJECT_DIR$/.next/static/chunks/webpack.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.next/static/development/_buildManifest.js" afterPath="$PROJECT_DIR$/.next/static/development/_buildManifest.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.next/static/webpack/d54daa522192f93ae7ac.hot-update.json" afterPath="$PROJECT_DIR$/.next/static/webpack/d54daa522192f93ae7ac.hot-update.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/component/Footer.js" afterPath="$PROJECT_DIR$/component/Footer.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/future_market_export.js" afterPath="$PROJECT_DIR$/pages/future_market_export.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/future_market_import.js" afterPath="$PROJECT_DIR$/pages/future_market_import.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/index.js" afterPath="$PROJECT_DIR$/pages/index.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/recommend.js" afterPath="$PROJECT_DIR$/pages/recommend.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/result_recommend_export.js" afterPath="$PROJECT_DIR$/pages/result_recommend_export.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/result_recommend_import.js" afterPath="$PROJECT_DIR$/pages/result_recommend_import.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/short_market_export.js" afterPath="$PROJECT_DIR$/pages/short_market_export.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/short_market_import.js" afterPath="$PROJECT_DIR$/pages/short_market_import.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -340,8 +112,8 @@
       <file leaf-file-name="result_recommend_export.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pages/result_recommend_export.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="21" selection-end-column="5" />
+            <state relative-caret-position="286">
+              <caret line="36" column="62" lean-forward="true" selection-start-line="36" selection-start-column="62" selection-end-line="36" selection-end-column="62" />
               <folding>
                 <element signature="e#0#28#0" expanded="true" />
               </folding>
@@ -352,8 +124,8 @@
       <file leaf-file-name="short_market_export.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pages/short_market_export.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="93" column="214" lean-forward="false" selection-start-line="93" selection-start-column="214" selection-end-line="93" selection-end-column="214" />
+            <state relative-caret-position="1425">
+              <caret line="97" column="0" lean-forward="false" selection-start-line="97" selection-start-column="0" selection-end-line="97" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -372,21 +144,19 @@
       <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pages/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="45" column="54" lean-forward="false" selection-start-line="45" selection-start-column="54" selection-end-line="45" selection-end-column="54" />
+            <state relative-caret-position="255">
+              <caret line="38" column="36" lean-forward="false" selection-start-line="38" selection-start-column="36" selection-end-line="38" selection-end-column="36" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Footer.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Footer.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/component/Footer.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="26" column="54" lean-forward="false" selection-start-line="26" selection-start-column="54" selection-end-line="26" selection-end-column="54" />
-              <folding>
-                <marker date="1611819035479" expanded="false" signature="770:817" ph="..." />
-              </folding>
+            <state relative-caret-position="210">
+              <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -394,8 +164,8 @@
       <file leaf-file-name="future_market_export.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pages/future_market_export.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="320">
-              <caret line="52" column="73" lean-forward="false" selection-start-line="52" selection-start-column="73" selection-end-line="52" selection-end-column="73" />
+            <state relative-caret-position="308">
+              <caret line="75" column="186" lean-forward="false" selection-start-line="75" selection-start-column="52" selection-end-line="75" selection-end-column="186" />
               <folding>
                 <element signature="e#0#28#0" expanded="true" />
               </folding>
@@ -406,9 +176,11 @@
       <file leaf-file-name="recommend.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pages/recommend.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="25" />
-              <folding />
+            <state relative-caret-position="573">
+              <caret line="99" column="0" lean-forward="false" selection-start-line="99" selection-start-column="0" selection-end-line="99" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#28#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -416,18 +188,18 @@
       <file leaf-file-name="future_market_import.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pages/future_market_import.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1170">
-              <caret line="80" column="34" lean-forward="false" selection-start-line="80" selection-start-column="34" selection-end-line="80" selection-end-column="34" />
+            <state relative-caret-position="45">
+              <caret line="65" column="48" lean-forward="false" selection-start-line="65" selection-start-column="48" selection-end-line="91" selection-end-column="54" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="result_recommend_import.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="result_recommend_import.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pages/result_recommend_import.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="9" column="8" lean-forward="false" selection-start-line="9" selection-start-column="8" selection-end-line="20" selection-end-column="70" />
+            <state relative-caret-position="378">
+              <caret line="77" column="40" lean-forward="false" selection-start-line="77" selection-start-column="40" selection-end-line="77" selection-end-column="40" />
               <folding />
             </state>
           </provider>
@@ -436,8 +208,8 @@
       <file leaf-file-name="short_market_import.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pages/short_market_import.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="494">
-              <caret line="102" column="0" lean-forward="false" selection-start-line="102" selection-start-column="0" selection-end-line="102" selection-end-column="0" />
+            <state relative-caret-position="360">
+              <caret line="105" column="31" lean-forward="false" selection-start-line="105" selection-start-column="31" selection-end-line="105" selection-end-column="31" />
               <folding />
             </state>
           </provider>
@@ -475,15 +247,15 @@
         <option value="$PROJECT_DIR$/pages/_app.js" />
         <option value="$PROJECT_DIR$/common/store.js" />
         <option value="$PROJECT_DIR$/pages/result_recommend.js" />
+        <option value="$PROJECT_DIR$/pages/index.js" />
+        <option value="$PROJECT_DIR$/component/Footer.js" />
+        <option value="$PROJECT_DIR$/pages/recommend.js" />
+        <option value="$PROJECT_DIR$/pages/future_market_import.js" />
+        <option value="$PROJECT_DIR$/pages/short_market_import.js" />
+        <option value="$PROJECT_DIR$/pages/short_market_export.js" />
+        <option value="$PROJECT_DIR$/pages/future_market_export.js" />
         <option value="$PROJECT_DIR$/pages/result_recommend_export.js" />
         <option value="$PROJECT_DIR$/pages/result_recommend_import.js" />
-        <option value="$PROJECT_DIR$/pages/future_market_export.js" />
-        <option value="$PROJECT_DIR$/pages/short_market_export.js" />
-        <option value="$PROJECT_DIR$/pages/index.js" />
-        <option value="$PROJECT_DIR$/pages/recommend.js" />
-        <option value="$PROJECT_DIR$/pages/short_market_import.js" />
-        <option value="$PROJECT_DIR$/pages/future_market_import.js" />
-        <option value="$PROJECT_DIR$/component/Footer.js" />
       </list>
     </option>
   </component>
@@ -505,9 +277,10 @@
   <component name="NodeModulesDirectoryManager">
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
     <option name="width" value="1440" />
-    <option name="height" value="900" />
+    <option name="height" value="775" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -545,24 +318,6 @@
               <item name="hedge_front_end" type="b2602c69:ProjectViewProjectNode" />
               <item name="hedge_front_end" type="462c0819:PsiDirectoryNode" />
               <item name="pages" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hedge_front_end" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hedge_front_end" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hedge_front_end" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hedge_front_end" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hedge_front_end" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hedge_front_end" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="fonts" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -606,15 +361,15 @@
       <option name="presentableId" value="Default" />
       <updated>1611748245773</updated>
       <workItem from="1611748246998" duration="2326000" />
-      <workItem from="1611760929274" duration="21323000" />
+      <workItem from="1611760929274" duration="26807000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25417000" />
+    <option name="totallyTimeSpent" value="30901000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <frame x="0" y="23" width="1440" height="775" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24947146" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -721,7 +476,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="29" lean-forward="false" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="29" />
-          <folding />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -849,7 +606,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
           <caret line="41" column="16" lean-forward="true" selection-start-line="41" selection-start-column="16" selection-end-line="41" selection-end-column="16" />
-          <folding />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -943,81 +702,81 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pages/future_market_export.js">
+    <entry file="file://$PROJECT_DIR$/component/Footer.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="52" column="73" lean-forward="false" selection-start-line="52" selection-start-column="73" selection-end-line="52" selection-end-column="73" />
-          <folding>
-            <element signature="e#0#28#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="45" column="54" lean-forward="false" selection-start-line="45" selection-start-column="54" selection-end-line="45" selection-end-column="54" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/recommend.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/result_recommend_export.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="21" selection-end-column="5" />
-          <folding>
-            <element signature="e#0#28#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/short_market_import.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="102" column="0" lean-forward="false" selection-start-line="102" selection-start-column="0" selection-end-line="102" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/short_market_export.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="93" column="214" lean-forward="false" selection-start-line="93" selection-start-column="214" selection-end-line="93" selection-end-column="214" />
+        <state relative-caret-position="210">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pages/future_market_import.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1170">
-          <caret line="80" column="34" lean-forward="false" selection-start-line="80" selection-start-column="34" selection-end-line="80" selection-end-column="34" />
+        <state relative-caret-position="45">
+          <caret line="65" column="48" lean-forward="false" selection-start-line="65" selection-start-column="48" selection-end-line="91" selection-end-column="54" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="38" column="36" lean-forward="false" selection-start-line="38" selection-start-column="36" selection-end-line="38" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/short_market_import.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="105" column="31" lean-forward="false" selection-start-line="105" selection-start-column="31" selection-end-line="105" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/recommend.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="573">
+          <caret line="99" column="0" lean-forward="false" selection-start-line="99" selection-start-column="0" selection-end-line="99" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/future_market_export.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="75" column="186" lean-forward="false" selection-start-line="75" selection-start-column="52" selection-end-line="75" selection-end-column="186" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/short_market_export.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1425">
+          <caret line="97" column="0" lean-forward="false" selection-start-line="97" selection-start-column="0" selection-end-line="97" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/result_recommend_export.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="36" column="62" lean-forward="true" selection-start-line="36" selection-start-column="62" selection-end-line="36" selection-end-column="62" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pages/result_recommend_import.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="9" column="8" lean-forward="false" selection-start-line="9" selection-start-column="8" selection-end-line="20" selection-end-column="70" />
+        <state relative-caret-position="378">
+          <caret line="77" column="40" lean-forward="false" selection-start-line="77" selection-start-column="40" selection-end-line="77" selection-end-column="40" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/component/Footer.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="26" column="54" lean-forward="false" selection-start-line="26" selection-start-column="54" selection-end-line="26" selection-end-column="54" />
-          <folding>
-            <marker date="1611819035479" expanded="false" signature="770:817" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
