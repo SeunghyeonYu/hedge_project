@@ -7,9 +7,10 @@ class Store {
     @observable storedWishMoney = '0';
     @observable storedWishYear = '0';
 
+    @observable storedFlag;
+
     @action
-    setData(stored_fetch_data){
-        console.log(stored_fetch_data);
+    setData(storedFetchData){
         this.storedFetchData = storedFetchData;
     }
 
@@ -24,7 +25,11 @@ class Store {
         this.storedWishYear = wishYear;
     }
 
+    @action
+    setFlag(storedFlag){
+        this.storedFlag = storedFlag;
+    }
+
 
 }
-
 export default (new Store);

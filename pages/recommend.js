@@ -1,37 +1,37 @@
 import Head from 'next/head'
 import Link from 'next/link'
 import React from 'react'
-import store from '../common/store';
+import store from '../common/store'
+import {observer} from "mobx-react";
 
-export default class Home extends React.Component {
+class Home extends React.Component {
+
+    state = {
+        flag: undefined
+    }
 
     handleWishMoneyChange = (e) => {
         store.setWishMoney(e.target.value)
+
     }
+
     handleWishYearChange = (e) => {
         store.setWishYear(e.target.value)
 
     }
 
-    handleButtonClick = (e) => {
-        fetch('http://52.78.1.198:8080/hedge/export', {
-            method: 'POST',
-            headers: {
-                'Content-Type': 'application/json',
-            },
-            body: JSON.stringify({
-                year: 1,
-                exportPrice: '100',
-            }),
-        }).then(response => response.json())
-            .then(data => store.setData(data));
-
-
+    handleImportButtonClick = (e) => {
+        store.setFlag('import')
+        this.setState({flag: 'import'})
     }
 
-
+    handleExportButtonClick = (e) => {
+        store.setFlag('export')
+        this.setState({flag: 'export'})
+    }
 
     render() {
+
     return (
         <div className="container">
         <Head>
@@ -53,23 +53,47 @@ export default class Home extends React.Component {
         <p> Q) 미래 시점에 수입금을 지급하나요? 수출금을 수취하나요?</p>
         <br/>
         <div className="row justify-content-center">
-        <div className="col-sm3" style={{paddingRight:15}}><button className="btn btn-primary btn-block" type="submit">수입</button></div>
-        <div className="col-sm3" style={{paddingRight:15}}><button className="btn btn-primary btn-block" type="submit">수출</button></div>
+        <div className="col-sm3" style={{paddingRight:15}}><button className="btn btn-primary btn-block" type="submit" onClick={this.handleImportButtonClick}>수입</button></div>
+        <div className="col-sm3" style={{paddingRight:15}}><button className="btn btn-primary btn-block" type="submit" onClick={this.handleExportButtonClick}>수출</button></div>
         </div>
         </div>
+            {
+                store.storedFlag === 'export' &&
+                (
+                    <div id="wishForm" style={{display: 'block'}}>
+                        <form>
+                            <div className="form-group">수출할 금액<input className="form-control item" id="wishMoney"
+                                                                     onChange={this.handleWishMoneyChange}/></div>
+                            <div className="form-group">수취 예정연도<input className="form-control" id="wishYear"
+                                                                      onChange={this.handleWishYearChange}/></div>
+                            <div className="form-group">
+                            </div>
+                            <Link href={`/result_recommend`}>
+                            <button className="btn btn-primary btn-block" type="submit"
+                                        onClick={this.handleButtonClick}>추천 받기
+                                </button>
+                            </Link>
+                        </form>
+                    </div>
+                )
+            }
+            {
+                store.storedFlag === 'import' &&
+                (
+                    <div id="wishForm" style={{display:'block'}}>
+                        <form>
+                            <div className="form-group">수입할 금액<input className="form-control item" id="wishMoney" onChange={this.handleWishMoneyChange}/></div>
+                            <div className="form-group">수입 예정연도<input className="form-control" id="wishYear" onChange={this.handleWishYearChange}/></div>
+                            <div className="form-group">
+                            </div>
+                            <Link href={`/result_recommend`}>
+                                <button className="btn btn-primary btn-block" type="submit" onClick={this.handleButtonClick}>추천 받기</button>
+                            </Link>
+                        </form>
+                    </div>
+                )
+            }
 
-
-        <div id="wishForm" style={{display:'block'}}>
-        <form>
-            <div className="form-group">수출할 금액<input className="form-control item" id="wishMoney" onChange={this.handleWishMoneyChange}/></div>
-            <div className="form-group">수취 예정연도<input className="form-control" id="wishYear" onChange={this.handleWishYearChange}/></div>
-        <div className="form-group">
-        </div>
-        <Link href={`/result_recommend`}>
-        <button className="btn btn-primary btn-block" type="submit" onClick={this.handleButtonClick}>추천 받기</button>
-        </Link>
-        </form>
-        </div>
 
         </div>
         </section>
@@ -82,3 +106,4 @@ export default class Home extends React.Component {
 }
 
 }
+export default observer(Home);

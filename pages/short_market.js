@@ -33,7 +33,7 @@ export default function Home() {
                                         <div className="info">
                                             <h3>단기금융 시장 이용</h3>
                                             <div className="price">
-                                                <h3>($300.00)</h3>
+                                                <h3>￦ {store.storedFetchData.sumOfMarket}</h3>
                                             </div>
                                             <div className="row">
                                                 <div className="summary col-md-6">
@@ -43,38 +43,40 @@ export default function Home() {
                                                             <tr>
                                                                 <th>해지전략</th>
                                                                 <th>t=0</th>
-                                                                <th>t=?</th>
+                                                                <th>t={store.storedWishYear}</th>
                                                             </tr>
                                                             </thead>
+
+
                                                             <tbody>
                                                             <tr>
                                                                 <td className="stat">수출대금 수취</td>
                                                                 <td></td>
-                                                                <td>(+$100)</td>
+                                                                <td>+${store.storedWishMoney}</td>
 
                                                             </tr>
                                                             <tr>
                                                                 <td className="stat">달러화 차입</td>
-                                                                <td>(+$92.250)</td>
-                                                                <td>(-$100)</td>
+                                                                <td>{store.storedFetchData.dollarBorrowing}</td>
+                                                                <td>-${store.storedWishMoney}</td>
 
                                                             </tr>
                                                             <tr>
                                                                 <td className="stat">현물환 매도</td>
-                                                                <td>(-$92.2509 + 1,235￦/$*$92.2509)</td>
+                                                                <td>{store.storedFetchData.dollarBuying}</td>
                                                                 <td></td>
 
                                                             </tr>
                                                             <tr>
                                                                 <td className="stat">원화 대출</td>
-                                                                <td>(￦113,930)</td>
-                                                                <td>(+￦120,310)</td>
+                                                                <td>{store.storedFetchData.krwLoanT0}</td>
+                                                                <td>{store.storedFetchData.krwLoanTN}</td>
 
                                                             </tr>
                                                             <tr>
                                                                 <td className="stat">합계</td>
-                                                                <td>(0)</td>
-                                                                <td>(￦123,000)</td>
+                                                                <td>0</td>
+                                                                <td>+￦{store.storedFetchData.sumOfMarket}</td>
                                                             </tr>
                                                             </tbody>
                                                         </table>
@@ -82,9 +84,27 @@ export default function Home() {
                                                 </div>
                                                 <div className="summary col-md-6">
                                                     <br/>
-                                                    <p>선물환 매도는 현재 시점에서 미리 정한 환율로 미래시점에 외환을 매도하는 것을 의미합니다.</p>
-                                                    <p>선물한 매도를 하게 되면 미래의 특정 시점에 일정가격으로 달러를 팔고 이를 원화로 교환하게 됨으로써 미래 시점에 '달러가 들어오는 상황'이 '원화가 들어오는 상황'으로 바뀌어 환변동 위험에 노출되는 것을 막아줍니다.</p>
-                                                    <p>따라서 귀사가 (3)년 뒤에 $()를 수취하게 되는 경우 선물환 매도를 하게 되면 환율 변동과 상관없이 안정적으로 ()원을 수취할 수 있게 됩니다.</p>
+
+                                                    <p>[단기금융시장을 이용한 헤징]</p>
+                                                    <p>달러화 차입 + 현물환 매도 + 원화 대출은
+                                                    달러화의 차입 이자율을 고려하여 미래의 시점에 수취하게 될 달러와 같은 금액이 되도록 현재시점에서 차입을 하고
+                                                    차입을 한 달러화의 금액만큼 현물환을 매도(현재시점에서 달러를 팔고 원화로 교환)하고
+                                                    그 원화만큼의 금액을 현재시점에서 대출하게 되면, 대출이자율을 고려한 미래의 원화가치만큼이 안정적으로 들어오게 되어
+                                                        미래 시점에 '달러가 들어오는 상황'이 '원화가 들어오는 상황'으로 바뀌어 환변동 위험에 노출되는 것을 막아줍니다.</p>
+                                                    <p>따라서, 귀사가 {store.storedWishYear}년 뒤에 ￦{store.storedFetchData.sumOfMarket}를 수취하게 되는 경우, 달러화 차입 + 현물환 매도 + 원화 대출을 하게 되면 환율 변동과 상관없이 안정적으로 ￦{store.storedWishMoney}를 수취할 수 있게 됩니다.</p>
+
+                                                    <br/>
+                                                    <p>[선물환시장을 이용한 헤징]</p>
+                                                    <p>이와 같은 포지션으로는, 선물환 매도를 통해서도 동일한 효과를 얻을 수 있는데
+                                                        선물환 매도는 현재 시점에서 미리 정한 환율로 미래시점에 외환을 매도하는 것을 의미합니다.</p>
+                                                    <p>즉, 선물환 매도를 하게 되면 미래의 특정시점에 일정가격으로 달러를 팔고 이를 원화로 교환하게 됨으로써
+                                                    미래 시점에 '달러가 들어오는 상황'이 '원화가 들어오는 상황'으로 바뀌어 환변동 위험에 노출되는 것을 막아줍니다.</p>
+                                                    <p>하지만, 이 금액은 ￦{store.storedFetchData.sumOfForward}으로 단기금융시장을 이용한 방법보다 {store.storedFetchData.resultHedge}만큼 적으므로
+                                                    전자에 기술한 달러화 차입 + 현물환 매도 + 원화 대출 방식이 귀사에 더 유리한 전략이라고 볼 수 있습니다.</p>
+
+                                                    {/*<p>선물환 매도는 현재 시점에서 미리 정한 환율로 미래시점에 외환을 매도하는 것을 의미합니다.</p>*/}
+                                                    {/*<p>선물한 매도를 하게 되면 미래의 특정 시점에 일정가격으로 달러를 팔고 이를 원화로 교환하게 됨으로써 미래 시점에 '달러가 들어오는 상황'이 '원화가 들어오는 상황'으로 바뀌어 환변동 위험에 노출되는 것을 막아줍니다.</p>*/}
+                                                    {/*<p>따라서 귀사가 {store.storedWishYear}년 뒤에 ${store.storedWishMoney}를 수취하게 되는 경우 선물환 매도를 하게 되면 환율 변동과 상관없이 안정적으로 {store.storedFetchData.krwLoanTN}원을 수취할 수 있게 됩니다.</p>*/}
                                                 </div>
                                             </div>
                                         </div>
@@ -108,13 +128,13 @@ export default function Home() {
                                                         <tbody>
                                                         <tr>
                                                             <td className="stat">원화</td>
-                                                            <td>연 (5.6)%</td>
-                                                            <td>연 (6.4)%</td>
+                                                            <td>연 {store.storedFetchData.usdDepositInteresetRate}%</td>
+                                                            <td>연 {store.storedFetchData.usdBorrowingInteresetRate}%</td>
                                                         </tr>
                                                         <tr>
                                                             <td className="stat">달러화</td>
-                                                            <td>연 (7.6)%</td>
-                                                            <td>연 (8.4)%</td>
+                                                            <td>연 {store.storedFetchData.krwDepositInteresetRate}%</td>
+                                                            <td>연 {store.storedFetchData.krwBorrowingInteresetRate}%</td>
                                                         </tr>
                                                         </tbody>
                                                     </table>
@@ -126,15 +146,15 @@ export default function Home() {
                                                         <thead className="thead-dark">
                                                         <tr scope="col">
                                                             <th>구분</th>
-                                                            <th>현물환 매입환율</th>
-                                                            <th>현물환 매도환율</th>
+                                                            <th>선물환 매입환율</th>
+                                                            <th>선물환 매도환율</th>
                                                         </tr>
                                                         </thead>
                                                         <tbody>
                                                         <tr>
                                                             <td className="stat">달러화</td>
-                                                            <td>(1,245원/$)</td>
-                                                            <td>(1,235원/$)</td>
+                                                            <td>{store.storedFetchData.futurePurchaseRate}원/$</td>
+                                                            <td>{store.storedFetchData.futureSellingRate}원/$</td>
                                                         </tr>
                                                         </tbody>
                                                     </table>

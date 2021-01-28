@@ -4,8 +4,27 @@ import React from "react";
 
 import store from '../common/store';
 
-// @observer
 export default class Home extends React.Component{
+    componentDidMount() {
+
+        fetch('http://52.78.1.198:8080/hedge/export', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                body: JSON.stringify({
+                    year: store.storedWishYear,
+                    exportPrice: store.storedWishMoney,
+                }),
+            }).then(response => response.json())
+            .then(data => store.setData(data))
+            .then(() => this.setState({data: store.storedFetchData}) )
+    }
+
+    state = {
+        data: undefined,
+    }
+
     render(){
         return (
             <div className="container">
@@ -28,8 +47,10 @@ export default class Home extends React.Component{
                                 <section className="clean-block clean-form dark">
                                     <div className="container">
                                         <form>
-                                            <div className="form-group">수출할 금액<input className="form-control item" id="wishMoney" value={store.storedFetchData.dollarBorrowing}/></div>
-                                            <div className="form-group">수취 예정연도<input className="form-control" id="wishYear" value={store.storedWishYear}/></div>
+                                            <div className="form-group">수출할 금액 <p> {store.storedWishMoney} </p> </div>
+                                                {/*<input className="form-control item" id="wishMoney" value=/>*/}
+                                            <div className="form-group">수취 예정연도 <p>{store.storedWishYear} </p> </div>
+                                            {/*<input className="form-control" id="wishYear" value=/>*/}
                                             <div className="form-group">
                                             </div>
                                         </form>
@@ -44,7 +65,7 @@ export default class Home extends React.Component{
                                             <h3>선물환시장 이용</h3>
                                         </div>
                                         <div className="price">
-                                            <h4>($25)</h4>
+                                            <h4>￦{store.storedFetchData.sumOfForward}</h4>
                                         </div>
                                         <Link href={`/future_market`}>
                                             <button className="btn btn-outline-primary btn-block" type="button">상세 이동</button>
@@ -59,7 +80,7 @@ export default class Home extends React.Component{
                                             <h3>단기금융시장 이용</h3>
                                         </div>
                                         <div className="price">
-                                            <h4>($500)</h4>
+                                            <h4>￦{store.storedFetchData.sumOfMarket}</h4>
                                         </div>
                                         <Link href={`/short_market`}>
                                             <button className="btn btn-primary btn-block" type="button">상세 이동</button>
@@ -93,8 +114,21 @@ export default class Home extends React.Component{
 
 }
 //
+// Home.getInitialProps = async function() {
+//     const res = await fetch(fetch('http://52.78.1.198:8080/hedge/export', {
+//         method: 'POST',
+//         headers: {
+//             'Content-Type': 'application/json',
+//         },
+//         body: JSON.stringify({
+//             year: store.storedWishYear,
+//             exportPrice: store.storedWishMoney,
+//         }),
+//     }))
+//     // const data = await res.json()
+//     data => store.setData(res)
+//     // console.log(`Show data fetched. Count: ${data.length}`)
 //
-// Home.getInitialProps = async (ctx) => {
-//
-//     return {}
-// };
+//     return {
+//     }
+// }

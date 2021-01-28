@@ -2,9 +2,6 @@
   "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
-  "/": "pages/index.js",
   "/result_recommend": "pages/result_recommend.js",
-  "/next/dist/pages/_error": "pages/next/dist/pages/_error.js",
-  "/future_market": "pages/future_market.js",
-  "/recommend": "pages/recommend.js"
+  "/short_market": "pages/short_market.js"
 }
