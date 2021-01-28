@@ -3,8 +3,7 @@
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
   "/recommend": "pages/recommend.js",
-  "/short_market_export": "pages/short_market_export.js",
-  "/": "pages/index.js",
   "/result_recommend_import": "pages/result_recommend_import.js",
-  "/short_market_import": "pages/short_market_import.js"
+  "/short_market_import": "pages/short_market_import.js",
+  "/next/dist/pages/_error": "pages/next/dist/pages/_error.js"
 }

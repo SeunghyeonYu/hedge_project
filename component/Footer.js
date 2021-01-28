@@ -4,7 +4,7 @@ export default class Footer extends React.Component {
 
     componentDidMount() {
 
-        fetch('http://52.78.1.198:8080/stock/quotes', {
+        fetch('http://15.164.222.11:8080/stock/quotes', {
             method: 'POST',
             headers: {
                 'Content-Type': 'application/json',

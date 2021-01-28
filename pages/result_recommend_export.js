@@ -7,7 +7,7 @@ import store from '../common/store';
 export default class Home extends React.Component{
     componentDidMount() {
 
-        fetch('http://52.78.1.198:8080/hedge/export', {
+        fetch('http://15.164.222.11:8080/hedge/export', {
                 method: 'POST',
                 headers: {
                     'Content-Type': 'application/json',

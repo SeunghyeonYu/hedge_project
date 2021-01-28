@@ -7,7 +7,7 @@ import store from '../common/store';
 export default class Home extends React.Component{
     componentDidMount() {
 
-        fetch('http://52.78.1.198:8080/hedge/import', {
+        fetch('http://15.164.222.11:8080/hedge/import', {
                 method: 'POST',
                 headers: {
                     'Content-Type': 'application/json',
@@ -75,7 +75,7 @@ export default class Home extends React.Component{
                                 </div>
                                 <div className="col-md-5 col-lg-4">
                                     <div className="clean-pricing-item">
-                                        
+
                                         <div className="heading">
                                             <h3>단기금융시장 이용</h3>
                                         </div>
